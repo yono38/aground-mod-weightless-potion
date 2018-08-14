@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mod>
+    <name>Weightless Potion Mod</name>
+    <description>Adds a potion to temporarily increase weight limit.</description>
+    <author>Jason Schapiro</author>
+    <version>1.0.0</version>
+    <init>
+      <include id="structures/crafting.xml" />
+      <include id="items/food.xml" />
+      <include id="lang/languages.xml" />
+    </init>
+</mod>

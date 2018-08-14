@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<recipes>
+  <recipe id="make_weight_potion" creates="weight_potion" type="lab">
+    <item id="ice_berries" count="3" />
+		<item id="blood_gem" count="1" />
+  </recipe>
+</recipes>

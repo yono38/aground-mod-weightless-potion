@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lang id="en_US" name="English" version="1.4.0">
+	<section id="item.names">
+		<text id="weight_potion">Weightless Potion</text>
+  </section>
+</lang>

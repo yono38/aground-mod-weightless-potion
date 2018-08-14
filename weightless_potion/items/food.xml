@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<tilesheet id="weight_potion.png" width="10" height="16" />
+	<tile id="weight_potion.ico" sheet="weight_potion.png" x="0" />
+	<item id="weight_potion" type="potion" action="eat" cost="50" weight="1" icon="weight_potion.ico" eat="common.drink_item">
+		<stat id="weight" value="50%" time="10" />
+	</item>
+</data>
