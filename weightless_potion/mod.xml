@@ -5,8 +5,8 @@
     <author>Jason Schapiro</author>
     <version>1.0.0</version>
     <init>
-      <include id="structures/crafting.xml" />
       <include id="items/food.xml" />
       <include id="lang/languages.xml" />
+      <include id="structures/crafting.xml" />
     </init>
 </mod>
